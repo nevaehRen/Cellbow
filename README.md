@@ -1,4 +1,4 @@
-# Cellbow
-Here are Cellbow's ImageJ plugin and a python source code.
+# Cellbow - ImageJ plugin version
+Here are Cellbow's ImageJ plugin code.
 
-Using microscope to study cells growing and dividing is one of the common tasks in a biological lab. However, having taken the pictures of the cells is only half way through. A challenging and often time-consuming work is to recognize, label and track each individual cell from the raw image. These images usually vary greatly in their features and qualities depending on the focal field, experimental conditions, cell types, different labs, etc. Current methods are very limited to solve these generic problems. Here we employed a machine learning method to develop a robust software that is automated, flexible and customizable for this task. 
+This is a ImageJ plugin for Cellbow, It contains a budding yeast bright-field image plugin and a fission yeast fluorescent image plugin. User can use this simple plugin to test their own images. Compared with the python code version Cellbow, it's easily to use and don't need any complicated installation steps (such as python, tensorflow ...). However, it cost much longer time than the python code version. So we highly recommend user to try their image using the ImageJ plugin version, or website version. Please enjoy !
